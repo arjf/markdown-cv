@@ -2,7 +2,7 @@
 
 MLOps Engineer with deep interests in both fields.
 
-In love with coding, sound, and visuals.
+In love with all things cloud, Computer Vision, and music.
 
 - [arjf.dev](https://arjf.dev)
 - [arjf@protonmail](mailto:arjf@protonmail.com)

@@ -26,9 +26,9 @@
 
   > _Python_ _Tensorflow_ _Pytorch_
 
-- ##### March 10, 2004
+<!-- - ##### March 10, 2004
 
-  ### Born
+  ### Born -->
 
 <style lang="scss">
   @import '../styles/theme.scss';

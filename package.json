@@ -19,7 +19,7 @@
     "clean": "rm -rf public/build/",
     "prebuild": "npm run clean",
     "build": "rollup -c",
-    "dev": "npm run build -- -w",
+    "dev": "npm run build -- --host -w",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "lint": "prettier --check \"src/**/*.{js,jsx}\"",
     "postversion": "echo $(git push --tags)",

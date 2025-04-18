@@ -38,7 +38,7 @@
       <svelte:component this={section.component} />
     </Section>
   {/each}
-  <!-- <img src="images/me.jpeg" id="me" alt="Heisann" /> -->
+  <!-- <img src="images/me.jpeg" id="me" alt="" /> -->
 </main>
 
 <footer id="footer">
