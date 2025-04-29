@@ -9,6 +9,6 @@ In love with all things cloud, Computer Vision, and music.
 
 ### Follow
 
-- [github.com/ajdjyt](https://github.com/ajdjyt)
+- [github.com/arjf](https://github.com/arjf)
 - [/in/ArnavFernandes](https://linkedin.com/in/arnavfernandes)
 - [@arnav_fernandes](https://x.com/arnav_fernandes)
