@@ -1,6 +1,6 @@
 ## Experience
 
-- ##### February 2024 – Present
+- ##### February 2024 – May 2024
 
   ### HyperVerge
 
